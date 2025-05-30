@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm a Software Engineer
 
-<!--
-**fs-aclass/fs-aclass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Technical areas:**  
+  Radius, License, FEM, Check for Updates, Cloud, Forescout Core
 
-Here are some ideas to get you started:
+- **Languages:**  
+  JAVA, Perl, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Approach:**  
+  Minimalist. Detail-oriented. I value clarity and precision.
+
+- **Interests:**  
+  - Edgar Allan Poe’s “The Raven”  
+  - Video games  
+  - Tabletop RPGs (DND, Pathfinder)  
+  - Movies  
+  - Debates  
+  - Japanese animation  
+  - Cartoons  
+  - Manga  
+  - Red teaming (hobbyist)
+
+---
+
+_No social links. No fluff. Just code._
